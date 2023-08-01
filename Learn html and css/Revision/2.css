@@ -1,0 +1,28 @@
+#v{
+    color: blueviolet;
+}
+#vi{
+    color: blue;
+}
+#viv{
+    color: violet;
+}
+#viva{
+    color: bisque;
+}
+#vivan{
+    color: gray;
+}
+#v1{
+    color: green;
+}
+p{
+    font-size: 5vh;
+}
+h1{
+    border: 10px solid blue;
+    border-radius: 50px;
+}
+.box_shadow{
+    box-shadow: -10px -20px 100px 1px blue; 
+}
